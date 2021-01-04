@@ -67,5 +67,18 @@ iv)Plugins
 </ol> 
 
 
+Navigation Diagram:
+
+![alt text](https://github.com/edrazi90/Dart-Quiz-Game/blob/main/NavigationDiagram.jpg "Navigation Map")
+
+Sequence Diagram:
+![alt text](https://github.com/edrazi90/Dart-Quiz-Game/blob/main/SequenceDiagram.jpg "sequence")
+
+References:
+<ol>
+ <li>https://medium.com/flutter-community/flutter-how-to-build-a-quiz-game-596d0f369575</li>
+<li>https://github.com/fireship-io/flutter-firebase-quizapp-course</li>
+<li>https://vincenttechblog.com/build-a-quiz-app-using-flutter-for-android-and-ios/</li>
+</ol>
 
 
