@@ -52,11 +52,20 @@ ii) Container Component
 -Logic err0r checking on login page
 
 iii)Backend
--User Authentication(Firebase Authentication).
-c.Firebase’s Cloud Firestore/Real time database for storing questions.
+<ol>
+    <li>-User Authentication(Firebase Authentication).</li>
+    <li>-Firebase’s Cloud Firestore/Real time database for storing questions.</li>
+</ol>
+
+
 
 iv)Plugins
--Pub.dev to install libaries
--Firebase_auth for authentication process 
--top-snackbar-flutter
+<ol>
+<li>-Pub.dev to install libaries</li>
+<li>-Firebase_auth for authentication process </li>
+<li>-top-snackbar-flutter</li>
+</ol> 
+
+
+
 
