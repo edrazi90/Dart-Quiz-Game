@@ -1,8 +1,13 @@
 # Dart-Quiz-Game
 
-b. Title of the project
+a.Group Members:
 
+⋅⋅* Muhammad Firdaus Bin Mahmad Razelan (1717977)
+⋅⋅* Modou Lamin Ceesay(1335539)
+
+b. Title of the project
 Quiz Game
+
 c. Introduction
 About Quiz Game: A Flutter based mobile application meant to test players knowledge especially in the Arts and Science category. The app uses Firebase as a backend server to store a player's profile and their highscore. We aim to set up Quiz Game as an intuitive platform for users to test their knowledge in a fun and wonderful experience. For initial analysis,we have tried some of the quiz-based apps in the market and we realized that most of them were provided with features such as multiplayer,live ranking system and sharing. We come to a conclusion that in order to develop such an application with such features requires ample time in development and due to feasibility in time issues we decided only to include necessary features such as live ranking and user authentication to make the most of Quiz Game.
 
