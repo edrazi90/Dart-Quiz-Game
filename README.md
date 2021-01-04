@@ -2,8 +2,11 @@
 
 a.Group Members:
 
-⋅⋅* Muhammad Firdaus Bin Mahmad Razelan (1717977)
-⋅⋅* Modou Lamin Ceesay(1335539)
+<ol>
+    <li>Muhammad Firdaus Bin Mahmad Razelan (1717977)</li>
+    <li>Modou Lamin Ceesay(1335539)</li>
+</ol> 
+
 
 b. Title of the project
 Quiz Game
