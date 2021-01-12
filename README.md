@@ -4,7 +4,7 @@ a.Group Members:
 
 <ol>
     <li>Muhammad Firdaus Bin Mahmad Razelan (1717977)</li>
-    <li>Modou Lamin Ceesay(1335539)</li>
+    <li>Modou Lamin Ceesay (1335539)</li>
 </ol> 
 
 
@@ -19,7 +19,7 @@ d. Objectives
 The are 4 objectives outlined in Quiz Game:
 
     Intuitive: To provide up-to-date and user-friendly experience in role-playing games
-    Short yet interesting test: 2 Categories are provided, Arts and Science. The questions are designed to be mind-challenging thus sparking interest in users to know more about the field.
+    Short yet interesting test: 2 Categories are provided, Arts and Science. The questions <br> are designed to be mind-challenging thus sparking interest in users to know more about the field.
     Competitive spirit between users: We provide a live ranking feature in which will display current high score among users of the app. This will inspire users to motivate themselves in becoming the top high scorer of the quiz.
     Spark interest for users to learn: We aim to motivate users to gain knowledge as well as providing a platform for them to test their knowledge.This wheel of learning process are expected put users at competitive edge in terms of gaining benefits from their knowledge
 
