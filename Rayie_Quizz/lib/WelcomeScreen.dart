@@ -1,8 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'home.dart';
-
+import 'login_screen.dart';
 
 class LoadingPage extends StatefulWidget {
   LoadingPage({Key key, this.title}) : super(key: key);
@@ -16,12 +15,12 @@ class _LoadingPageState extends State<LoadingPage> {
   //TextEditingController weightController = TextEditingController();
   //TextEditingController heightController = TextEditingController();
 
-@override
-  void initState(){ 
+  @override
+  void initState() {
     super.initState();
-    Timer(Duration(seconds: 3), (){
+    Timer(Duration(seconds: 6), () {
       Navigator.of(context).pushReplacement(MaterialPageRoute(
-        builder: (context) => MyHomePage(),
+        builder: (context) => MyLoginPage(),
       ));
     });
   }
