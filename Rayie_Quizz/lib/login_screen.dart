@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'category.dart';
+import 'home.dart';
 
 TextStyle style = TextStyle(fontFamily: 'Aerial', fontSize: 20.0);
 
@@ -62,7 +61,7 @@ class _MyLoginPageState extends State<MyLoginPage> {
         onPressed: () {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => CategoryPage()),
+            MaterialPageRoute(builder: (context) => MyHomePage()),
           );
         },
       ),
