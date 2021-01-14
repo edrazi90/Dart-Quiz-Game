@@ -1,3 +1,4 @@
+import 'package:Rayie_Quizz/category.dart';
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatefulWidget {
@@ -23,62 +24,50 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Container(
         child: Column(
           children: <Widget>[
-
             Container(
-              height:200,
+              height: 200,
               width: 500,
-                decoration: BoxDecoration(
-                    image: DecorationImage(
-                        image: AssetImage("images/science.jpg"),
-                        fit: BoxFit.fill
-                        
-                        )
-                        ),
-                        ),
-
-
-                 Container(
+              decoration: BoxDecoration(
+                  image: DecorationImage(
+                      image: AssetImage("images/quizz.jpg"), fit: BoxFit.fill)),
+            ),
+            Container(
                 margin: EdgeInsets.all(20),
                 width: double.infinity,
-                height: 55,
+                height: 45,
                 child: ElevatedButton(
                   child: Text('PLAY'),
-                  onPressed: (){},
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => CategoryPage()),
+                    );
+                  },
                 )),
-
-
-                Container(
+            Container(
                 margin: EdgeInsets.all(20),
                 width: double.infinity,
-                height: 55,
+                height: 45,
                 child: ElevatedButton(
                   child: Text('HIGHSCORE'),
-                  onPressed: (){},
+                  onPressed: () {},
                 )),
-
-
-                Container(
+            Container(
                 margin: EdgeInsets.all(20),
                 width: double.infinity,
-                height: 55,
+                height: 45,
                 child: ElevatedButton(
                   child: Text('PROFILE'),
-                  onPressed: (){},
+                  onPressed: () {},
                 )),
-
-              Container(
+            Container(
                 margin: EdgeInsets.all(20),
                 width: double.infinity,
-                height: 55,
+                height: 45,
                 child: ElevatedButton(
                   child: Text('EXIT'),
-                  onPressed: (){},
+                  onPressed: () {},
                 )),
-
-
-
-
-
           ],
         ),
       ),

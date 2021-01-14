@@ -81,12 +81,12 @@ class _ArtsPageState extends State<ArtsPage> {
     return Scaffold(
 
        appBar: AppBar(
-        backgroundColor: Color(0xFFF7C229),
+        backgroundColor: Colors.indigo,
    
         title: Text('QUIZ',style: TextStyle(fontSize: 22,fontWeight: FontWeight.bold),),
         centerTitle: true,
       ),
-      backgroundColor: Color(0xFFF4F3E3),
+       backgroundColor: Color(0xFFF4F3E3),
 
       body: Builder(
               builder : (BuildContext context) => Container(

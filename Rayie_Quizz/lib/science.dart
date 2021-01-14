@@ -81,7 +81,7 @@ class _SciencePageState extends State<SciencePage> {
     return Scaffold(
 
        appBar: AppBar(
-        backgroundColor: Color(0xFFF7C229),
+        backgroundColor: Colors.indigo,
    
         title: Text('QUIZ',style: TextStyle(fontSize: 22,fontWeight: FontWeight.bold),),
         centerTitle: true,
