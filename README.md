@@ -84,9 +84,9 @@ Sequence Diagram:
 ![alt text](https://github.com/edrazi90/Dart-Quiz-Game/blob/main/SequenceDiagram.jpg "sequence")
 
 
+![1](https://user-images.githubusercontent.com/48913242/104692546-23347d80-5743-11eb-9abd-59b5747eff30.JPG)
+![2](https://user-images.githubusercontent.com/48913242/104692539-20d22380-5743-11eb-9261-bf5b7f2627df.JPG)
 
-![1](https://user-images.githubusercontent.com/48913242/104692539-20d22380-5743-11eb-9261-bf5b7f2627df.JPG)
-![2](https://user-images.githubusercontent.com/48913242/104692546-23347d80-5743-11eb-9abd-59b5747eff30.JPG)
 
 
 
