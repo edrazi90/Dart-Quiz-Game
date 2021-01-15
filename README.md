@@ -83,6 +83,12 @@ Navigation Diagram:
 Sequence Diagram:
 ![alt text](https://github.com/edrazi90/Dart-Quiz-Game/blob/main/SequenceDiagram.jpg "sequence")
 
+
+Functional Requirements:
+![1](https://user-images.githubusercontent.com/48913242/104691840-f0d65080-5741-11eb-9d92-b91263ff970d.JPG)
+
+![2](https://user-images.githubusercontent.com/48913242/104691845-f338aa80-5741-11eb-9211-f077cafea355.JPG)
+
 References:
 <ol>
  <li>https://medium.com/flutter-community/flutter-how-to-build-a-quiz-game-596d0f369575</li>
