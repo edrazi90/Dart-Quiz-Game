@@ -85,11 +85,9 @@ Sequence Diagram:
 
 
 Functional Requirements:
-<ol>
- <li>https://user-images.githubusercontent.com/48913242/104691840-f0d65080-5741-11eb-9d92-b91263ff970d</li>
- <li>https://user-images.githubusercontent.com/48913242/104691845-f338aa80-5741-11eb-9211-f077cafea355</li>
+![2](https://user-images.githubusercontent.com/48913242/104692539-20d22380-5743-11eb-9261-bf5b7f2627df.JPG)
+![1](https://user-images.githubusercontent.com/48913242/104692546-23347d80-5743-11eb-9abd-59b5747eff30.JPG)
 
-</ol>
 
 
 
