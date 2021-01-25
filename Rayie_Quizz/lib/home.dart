@@ -1,8 +1,10 @@
-import 'package:Rayie_Quizz/category.dart';
+import 'package:QuizzTime/category.dart';
+import 'package:QuizzTime/login_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key key, this.title, String id}) : super(key: key);
   final String title;
 
   @override
@@ -10,8 +12,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  //TextEditingController weightController = TextEditingController();
-  //TextEditingController heightController = TextEditingController();
+  FirebaseAuth firebaseAuth = FirebaseAuth.instance;
+
+Future<void> _signOut() async {
+  await FirebaseAuth.instance.signOut();
+}
 
   @override
   Widget build(BuildContext context) {
@@ -65,8 +70,13 @@ class _MyHomePageState extends State<MyHomePage> {
                 width: double.infinity,
                 height: 45,
                 child: ElevatedButton(
-                  child: Text('EXIT'),
-                  onPressed: () {},
+                  child: Text('LOG OUT'),
+                  onPressed: () {
+                    _signOut();
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => MyLoginPage()));
+                  },
                 )),
           ],
         ),

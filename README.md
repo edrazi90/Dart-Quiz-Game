@@ -76,6 +76,8 @@ iv)Plugins
 <li>-top-snackbar-flutter</li>
 </ol> 
 
+Poster:
+![alt_text](https://github.com/edrazi90/Dart-Quiz-Game/blob/OpenSource/quizzapp.png "Poster")
 
 Navigation Diagram:
 
