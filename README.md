@@ -77,7 +77,7 @@ iv)Plugins
 </ol> 
 
 Poster:
-![alt_text](https://github.com/edrazi90/Dart-Quiz-Game/blob/OpenSource/quizzapp.png "Poster")
+![alt_text](https://github.com/edrazi90/Dart-Quiz-Game/blob/OpenSource/QuizzApp.png "Poster")
 
 Navigation Diagram:
 
