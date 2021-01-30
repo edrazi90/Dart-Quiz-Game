@@ -89,7 +89,7 @@ class _ArtsPageState extends State<ArtsPage> {
       backgroundColor: Color(0xFFF4F3E3),
       body: Builder(
         builder: (BuildContext context) => Container(
-          child: Column( 
+          child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
               Container(
@@ -160,7 +160,7 @@ class _ArtsPageState extends State<ArtsPage> {
                           fontSize: 20,
                           fontWeight: FontWeight.bold),
                     ),
-                    color: Color(0xFFF7C229),
+                    color: Color(0x4b0082),
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                   ),
@@ -174,7 +174,7 @@ class _ArtsPageState extends State<ArtsPage> {
                           fontSize: 20,
                           fontWeight: FontWeight.bold),
                     ),
-                    color: Color(0xFFF7C229),
+                    color: Color(0x4b0082),
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                   )

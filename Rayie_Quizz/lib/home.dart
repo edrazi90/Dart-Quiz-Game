@@ -53,7 +53,7 @@ Future<void> _signOut() async {
                 margin: EdgeInsets.all(20),
                 width: double.infinity,
                 height: 45,
-                child: ElevatedButton(
+                child:                                        ElevatedButton(
                   child: Text('HIGHSCORE'),
                   onPressed: () {},
                 )),

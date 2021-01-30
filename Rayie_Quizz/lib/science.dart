@@ -20,7 +20,7 @@ class _SciencePageState extends State<SciencePage> {
     ScienceQuestions("6.Atomic bombs work by atomic fission.", true),
     ScienceQuestions("7.Molecules are chemically bonded.", true),
     ScienceQuestions("8.Spiders have six legs.", false),
-    ScienceQuestions("9.Mount Kilimanjaro is the tallest mountain in the world.", false),
+    ScienceQuestions( "9.Mount Kilimanjaro is the tallest mountain in the world.", false),
     ScienceQuestions("10.The study of plants is known as botany.", true),
   ];
 
@@ -147,7 +147,7 @@ class _SciencePageState extends State<SciencePage> {
                           fontSize: 20,
                           fontWeight: FontWeight.bold),
                     ),
-                    color: Color(0xFFF7C229),
+                    color: Color(0x4b0082),
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                   ),
@@ -161,7 +161,7 @@ class _SciencePageState extends State<SciencePage> {
                           fontSize: 20,
                           fontWeight: FontWeight.bold),
                     ),
-                    color: Color(0xFFF7C229),
+                    color: Color(0x4b0082),
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                   )
